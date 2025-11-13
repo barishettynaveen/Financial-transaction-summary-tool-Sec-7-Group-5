@@ -3,10 +3,12 @@
 # STEP 1 — TEAM FORMATION & LIFTOFF
 
 #Mission & Vision :
+
 Our mission is to build a Python-based Financial Transactions Summary Tool that helps summarize and analyze financial data efficiently.
 Our vision is to create reusable, modular Python functions that can later be integrated into a financial dashboard or visualization tool.
 
 #Success Priorities:
+
 Deliver a functional, modular, and well-documented Python codebase.
 
 Demonstrate consistent Agile collaboration through GitHub and Taiga.
@@ -16,6 +18,7 @@ Ensure even contribution and communication across all members.
 Complete all sprint stories within one week.
 
 #Working Agreements:
+
 Daily check-in message on group chat (e.g., Discord, WhatsApp).
 
 Use GitHub branches per feature; no direct commits to main.
