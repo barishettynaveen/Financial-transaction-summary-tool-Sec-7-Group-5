@@ -12,18 +12,21 @@ This project is a Python-based **Financial Transactions Summary Tool** that read
 - Outputs clean, reusable data for further analysis
 - Designed using Agile development principles
 
----
+
 
 ##  Files in Repository
-| File | Description |
-|------|--------------|
-| `financial_transactions.csv` | Dataset containing financial transaction data |
-| `main.py` | Python script for data summary and insights |
-| `requirements.txt` | Required dependencies |
-| `.gitignore` | Python default ignore file |
-| `README.md` | Project documentation |
 
----
+- `financial_transactions.csv` Dataset containing financial transaction data 
+
+- `main.py` - Python script for data summary and insights
+  
+- `requirements.txt` - Required dependencies
+
+- `.gitignore`  - Python default ignore file 
+
+- `README.md` - Project documentation 
+
+
 
 ##How to Run
 1. Clone the repository:
