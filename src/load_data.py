@@ -1,10 +1,10 @@
-
 import pandas as pd
 
 def load_and_clean_data(file_path):
-    
-    #Loads the financial transactions CSV file and cleans it.
-  
+    """
+    Loads the financial transactions CSV file and cleans it.
+    """
+
     # Load CSV
     df = pd.read_csv(file_path)
 
