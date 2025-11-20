@@ -138,9 +138,9 @@ Frequent, meaningful commits throughout the sprint
 
 ## Links 
 
-GitHub Repository: 
+GitHub Repository: https://github.com/barishettynaveen/Financial-transaction-summary-tool-Sec-7-Group-5
 
-Taiga Project: 
+Taiga Project: https://tree.taiga.io/project/prasannapodhem-sketch-financial-transactions-summary-tool
 
 
 
