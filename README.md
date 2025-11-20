@@ -23,34 +23,16 @@ financial-transactions-summary-tool/
 
 ## Features
 
-### ✔ Load & Clean Dataset
 - Reads the raw CSV file
 - Removes invalid or missing records
 - Standardizes column formats for consistency
 
-### ✔ Income & Expense Summary
-- Calculates total income (credits)
-- Calculates total expenses (debits)
-
-### ✔ Monthly Report
-- Groups all transactions by month
-- Computes monthly totals for credits and debits
-
-### ✔ Customer-Level Summary
-- Ranks customers by total spending
-- Generates a top 10 customer spending report
-
-### ✔ Top Transactions
-- Identifies the highest-value financial transactions
-
-### ✔ Visual Charts
 - Monthly credit/debit trend line chart  
 - Income vs. expense pie chart  
 - Top 10 customers bar chart  
 - Top 5 transactions bar chart
 
-# User Stories (Sprint Planning)
-
+## User Stories (Sprint Planning)
 ### US-01: Load & Clean Dataset
 
 **As a** data analyst  
@@ -77,9 +59,9 @@ Frequent, meaningful commits throughout the sprint
 
 ## Links 
 
-GitHub Repository: 
+GitHub Repository: https://github.com/barishettynaveen/Financial-transaction-summary-tool-Sec-7-Group-5
 
-Taiga Project: 
+Taiga Project: https://tree.taiga.io/project/prasannapodhem-sketch-financial-transactions-summary-tool
 
 
 
