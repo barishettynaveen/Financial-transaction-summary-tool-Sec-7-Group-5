@@ -12,4 +12,18 @@ def calculate_income_expense(df):
         "total_expense": expense
     }
 
+def customer_summary(df):
+    """
+    Creates a customer-level spending summary.
+    """
+
+    summary = (
+        df.groupby("customer_id")["amount"]
+        .sum()
+        .sort_values(ascending=False)
+    )
+
+    return summary
+
+
 
