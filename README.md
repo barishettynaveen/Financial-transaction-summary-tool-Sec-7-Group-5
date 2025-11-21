@@ -49,6 +49,9 @@ I implemented the calculate_income_expense() function, which computes total inco
 
 In this user story, we focused on understanding how much each customer spends. We created a function that adds up all the transactions for every customer and then sorts them from the highest spender to the lowest. This helps us quickly see which customers contribute the most to the business. The results from this feature are also used later in reports and charts.
 
+### User Story 4 – Monthly Summary:
+For this user story, we created the feature that generates the monthly financial report. The function groups all transactions by month and calculates how much money came in and went out during each month. This helps users quickly understand their month-to-month financial pattern and see any changes or trends over time.
+
 
 ## Links 
 
